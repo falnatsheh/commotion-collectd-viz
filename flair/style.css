@@ -1,0 +1,35 @@
+body{
+	color: gray;
+	font-family: Helvetica, Arial, Sans-serif;
+}
+
+#contenttop{
+	margin-left: 10px;
+}
+#contentbottom{
+	margin-left: 10px;
+}
+#map{
+	float: left;
+	width: 755;
+	height: 616px;
+	border: 1px solid gray;
+}
+#aggregatedata{
+	position: relative;
+	margin-left: 765px;
+	padding: 5px;
+	width: 300px;
+	height: 616px;
+	border: 1px solid gray;
+}
+#controllers{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#specificdata{
+	float:clear;
+	padding-left: 5px;	
+	border: 1px solid gray;
+	width: 910px;
+}
